@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
+    <title>Mwangi George</title>
     <link>//localhost:4321/</link>
-    <description>Recent content on A Hugo website</description>
+    <description>Recent content on Mwangi George</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
@@ -27,7 +27,7 @@
       <link>//localhost:4321/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       <guid>//localhost:4321/about/</guid>
-      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/georgemwangikenya&#34;&gt;&lt;img src=&#34;//localhost:4321/./about_files/profile_picture.jpg&#34; alt=&#34;profile&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am a detail-oriented Data Professional with hands-on experience in data cleaning, transformation, and management. My expertise lies in performing comprehensive data analysis and reporting, leveraging statistical analysis to identify patterns and relationships. I am experienced in demand forecasting and time series analysis, providing actionable business insights.&lt;/p&gt;&#xA;&lt;p&gt;I specialize in developing scalable Shiny applications with a modular approach to create user-friendly interfaces for data-driven applications. Additionally, I am adept at data visualization, using advanced custom visuals with modern libraries to effectively convey complex information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
